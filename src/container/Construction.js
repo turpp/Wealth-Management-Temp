@@ -42,6 +42,8 @@ export default class Construction extends React.Component{
                             <li>Explain how changing financial conditions affect you</li>
                             <li>Monitor your financial progress</li>
                             <li>Help make investment planning easier</li>
+                            <br></br>
+                            <br></br>
                             <hr></hr>
                             <p>Our website is currently under construction and will be an informational resource designed to help you learn more about personal wealth. Wealth Management of the Ozarks will help you understand the opportunities that become available when you take a proactive approach to your personal financial situation. You will find a variety of articles, calculators, and research reports that we hope will answer your questions or stimulate your interest.</p>
                             <p>In the mean time,  We are open for business and would love to assist any way possible. If you have any further questions, please call us <strong>(479) 209-0167</strong>(Cell) <strong>(479)-401-2525</strong>(Office) or e-mail us <a href="mailto:T.F.White@lpl.com" target='_top'>T.F.White@lpl.com</a>. We will be happy to help and look forward to talking with you.</p>
