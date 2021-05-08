@@ -36,3 +36,132 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-nav{
+  margin-left: auto
+}
+
+a {
+  /* padding: 0px 10px; */
+  /* color: white !important; */
+}
+li{
+  text-align: left;
+}
+hr{
+  background-color: orange;
+  width: 75%;
+  margin: 0
+}
+
+/* #accord-section{
+  background-image: url('./images/booktree.jpg');
+  background-size: 120%;
+ 
+} */
+
+.test {
+  background-color: #133a6b;
+  width: 50% !important;
+  height: 40% !important;
+  color: white;
+  border-radius: 25px
+}
+
+.announcement{
+  border-color: navy;
+}
+
+.testTitle{
+  color: white;
+  text-align: center;
+  margin: auto
+}
+.navbar{
+  background-color: #133a6b;
+}
+
+.footer{
+  background-color: #133a6b;
+  color: white
+}
+
+.bannerBox{
+  text-align: center;
+  padding-left: 20px;
+}
+
+.headshot{
+  padding-left: 0px;
+  width:150%;
+}
+.headshot-img{
+  border-radius: 25px;
+
+}
+
+.carousel-control-next, .carousel-control-prev{
+  width: 10% !important;
+}
+
+.carousel-caption{
+  margin: -7% !important;
+  bottom: 30% !important;
+}
+
+.sideText{
+  text-align: left;
+}
+
+.card-header{
+  background-color: darkorange !important; 
+  border-bottom: none !important;
+}
+.accordion-head{
+  color: black;
+}
+
+.nav-banner-logo{
+  width: 74px
+}
+
+.navbar-brand{
+  display: flex !important;
+  max-width: fit-content !important;
+}
+
+.banner-logo{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  
+}
+
+.brokercheck{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+ 
+  opacity: .5;
+  max-width: 200px;
+}
+
+.brokercheck:hover{
+  opacity: 1;
+ 
+}
+
+.broker-check-logo{
+  float: right;
+  padding-right: 20px;
+  padding-bottom: 20px;
+
+}
+
+.more-coming{
+  text-align: left !important;
+}
+
+hr{
+  width: 100%;
+}
