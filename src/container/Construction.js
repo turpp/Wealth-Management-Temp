@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container, Row, Image, Card, Col } from 'react-bootstrap'
 import AnnouncementAd5 from '../images/AnnouncementAd5.png'
-import {Navbar, Nav} from 'react-bootstrap'
+import {Navbar} from 'react-bootstrap'
 import symbolLogo from '../images/symbolLogo.png'
 
 export default class Construction extends React.Component{
