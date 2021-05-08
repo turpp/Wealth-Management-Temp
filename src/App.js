@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Construction from './container/Construction';
 import BrokerCheck from './container/BrockerCheck';
